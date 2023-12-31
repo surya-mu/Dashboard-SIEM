@@ -59,7 +59,9 @@ depending on terminal.
 
 **Screenshots of the Project**
 
-(![image](https://github.com/surya-mu/Dashboard-SIEM/assets/101094019/35960ce8-6e67-49d1-97ff-13f962ddc331)
+*Note: All the screenshots and the data provided in this Project contain dummy data as actual Project was done in a Secure connection to a undisclosable server, which I had acccess during the Internship period, hence only for display purposes I have added dummy json files, for the user to see how the project looked like. Thanks.*
+
+![image](https://github.com/surya-mu/Dashboard-SIEM/assets/101094019/35960ce8-6e67-49d1-97ff-13f962ddc331)
 
 ![image](https://github.com/surya-mu/Dashboard-SIEM/assets/101094019/e28656af-ab06-438d-8d2f-b6046d96b390)
 
