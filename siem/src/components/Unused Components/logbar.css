@@ -1,0 +1,19 @@
+.logbar{
+    position:fixed !important;
+    top:0px !important;
+    background-color: rgb(75, 24, 213) !important;
+    background-color: rgba(46, 83, 218, 0.927)!important;
+    background-color: black !important;
+    z-index:1;
+    left:0px;
+    width:100%;
+    color:white !important;
+
+}
+
+
+button svg{
+    /* color:"black";
+    background:white;
+     */
+}

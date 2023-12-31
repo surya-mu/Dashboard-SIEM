@@ -1,0 +1,151 @@
+.agent {
+    width:250px;
+    padding:2rem;
+    height:180px;
+    /* background: radial-gradient(circle at center, #ffe0b2, #ffcc80); /* beige gradient */
+    /* background: radial-gradient(circle at center, #e1bee7, #ba68c8); /*subtle lavender */
+    /* background: radial-gradient(circle at center, #90caf9, #64b5f6); /* ocean blue (best for now) */
+    /* background: radial-gradient(circle at center,#00aaff,#64b5f6);
+    background:radial-gradient(circle at center,rgba(28, 207, 243, 0.603), rgba(28, 207, 243, 0.522));
+    background: radial-gradient(circle at center,white,whitesmoke); 
+    background:  rgba(46, 83, 218, 0.599)!important; */
+    /* background: #4CB9E7; */
+    /* background-color: #FFECD6;
+    background-color: #4477CE;
+    background-color: #00ADB5;
+    background: radial-gradient(#C69749,#c69649dc); */ 
+    color: #000000;
+    box-shadow: 0px 1px 2px lightblue ;
+    margin-top:30px;
+    
+
+
+    text-align: center;
+    font-size: 21px;
+    text-wrap: wrap;
+    font-weight: 800;
+    /* border: 2px #0F2167 solid; */
+    border-radius: 15px;
+    /* background-color: #ffffff !important; */
+    font-size:17px;
+  
+}
+
+.data{
+    font-size: 50px;
+}
+
+
+.table th{
+    /* background-color:rgba(46, 85, 213, 0.803); */
+    background-color: #ffffff;
+    color: #C69749;
+    color: #64b5f6;
+    color: slategray;
+    /* background-color: #282A3A; */
+    /* background: radial-gradient(circle at center,#00aaff,#64b5f6); */
+    font-weight:700;
+    /* border: 1px #000000 solid; */
+    width: 320px !important;
+    padding-left: 0;
+    border: 0 black solid;
+    border-radius: 1px;
+    font-size: 14px;
+    text-align: center;
+    border-bottom: 0.5px rgba(0, 0, 0, 0.234) solid;
+
+}
+
+.table td{
+    background-color: #735F32;
+    /* background-color: rgba(46, 83, 218, 0.582);
+     */
+     /* background-color: rgba(30, 76, 239, 0.599);
+      */
+      background-color: #fafaff;
+    color:rgba(255, 255, 255, 0.805);
+    color:#64b4f6ae;
+    color:#000000 !important;
+    /* color:white; */
+    font-weight:550;
+    padding-right:5px;
+    width:320px !important;
+    border-collapse: collapse !important;
+    border-bottom: 0.3px rgba(112, 128, 144, 0.384) solid;
+    padding:1rem 0 0.5rem 0;
+    text-align: center;
+    font-weight:600;
+    color: rgba(52, 71, 103, 0.87) !important; 
+}
+
+
+
+.table{
+    margin:0px;
+    border-collapse: collapse;
+    /* border-collapse: separate !important; */
+    /* border-left: 2px  #000000 solid;
+    border-right: 2px #000000 solid; */
+    /* border: px solid #0c0c0c; */
+    border-spacing: 0px 4px;
+    max-width: 1100px;
+    border-radius: 200px;
+
+}
+
+/* Add this to your existing CSS or create a new CSS file */
+.pagination-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+  }
+  
+  .pagination {
+    display: flex;
+    list-style: none;
+    cursor: pointer;
+  }
+  
+  .pagination li {
+    margin: 4px 5px;
+    padding: 0.5rem;
+  }
+  
+  .pagination a {
+    text-decoration: none;
+    color: #007bff;
+    padding: 0.2rem;
+  }
+  
+  .pagination .active a :not(.nav-link) {
+    font-weight: bold;
+    background-color: #ffffff;
+  }
+  
+.agent h2{
+    background: linear-gradient(0deg,rgb(220,35,101),rgba(231, 55, 117, 0.799));
+    padding:"0.5rem";
+    width:"20px" !important;
+    display:"inline";
+    
+}
+
+
+
+.bi-person-fill-up{
+  background: linear-gradient(0deg,rgb(221,35,102),rgba(221, 35, 103, 0.786)) !important;
+  
+}
+
+.bi-person-fill-check{
+  background: linear-gradient(0deg,rgb(83,172,87),rgba(83,172,87,0.786)) !important;
+}
+
+.bi-person-fill-down{
+  background: linear-gradient(rgb(38,128,234),rgba(38,128,234,0.86));
+}
+
+.bi-person-x-fill{
+  background: linear-gradient(0deg,rgb(34,34,35),rgb(34,34,35))
+}
+
