@@ -24,13 +24,16 @@ npm install
 
 4. Ensure you have [Live Server](https://github.com/ritwickdey/vscode-live-server-plus-plus) Extension in your VSCode now click the **Go Live** Button
 
-    ![Alt text](Docs/image-3.png)
+    ![image](https://github.com/surya-mu/Dashboard-SIEM/assets/101094019/aba1398a-4dbb-4500-8e2f-d9ebf6d1a89e)
+
 
 5. Select ``agent_details.json`` from the directory window.
-    ![Alt text](Docs/image-4.png)
+    ![image](https://github.com/surya-mu/Dashboard-SIEM/assets/101094019/a27eceb7-d280-42e7-9cd8-41ff2dc2a8cc)
+
 
 Now a popup will be shown
-![Alt text](Docs/image-5.png)
+![image](https://github.com/surya-mu/Dashboard-SIEM/assets/101094019/2f7b506d-9848-49d6-b873-6aef76ce7785)
+
 
 
 
