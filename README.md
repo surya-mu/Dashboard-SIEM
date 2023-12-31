@@ -59,11 +59,12 @@ depending on terminal.
 
 **Screenshots of the Project**
 
-![Alt text](Docs/image.png)
+(![image](https://github.com/surya-mu/Dashboard-SIEM/assets/101094019/35960ce8-6e67-49d1-97ff-13f962ddc331)
 
-![Alt text](Docs/image-1.png)
+![image](https://github.com/surya-mu/Dashboard-SIEM/assets/101094019/e28656af-ab06-438d-8d2f-b6046d96b390)
 
-![Alt text](Docs/image-2.png)
+![image](https://github.com/surya-mu/Dashboard-SIEM/assets/101094019/a5349c70-f853-4919-989e-b64cb92a4fd6)
+
 
 *This was a Project Made during my Internship at C-DAC**
 
